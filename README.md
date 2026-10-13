@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 0 | 5 | 0 | `2026-10-09` |
+| **5** | 0 | 5 | 0 | `2026-10-13` |
 
 ---
 
@@ -20,7 +20,7 @@
 | 0002 | [995. Pattern 6](./DSA/General/pattern-6) | [CPP](./DSA/General/pattern-6/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0003 | [997. Pattern 7](./DSA/General/pattern-7) | [CPP](./DSA/General/pattern-7/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-03` |
 | 0004 | [1006. Pattern 8](./DSA/General/pattern-8) | [CPP](./DSA/General/pattern-8/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0005 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0005 | [1008. Pattern 9](./DSA/General/pattern-9) | [CPP](./DSA/General/pattern-9/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-13` |
 
 ---
 
